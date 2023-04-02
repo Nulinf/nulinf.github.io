@@ -1,2 +1,4 @@
+theme: jekyll-theme-minimal
 title: Nulinf
+description: One ring to rule them all
 include: [".well-known"]
